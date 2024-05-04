@@ -17,7 +17,6 @@ To play Intelli Checkers, follow these simple steps:
 ## Features
 
 - **AI vs Human Gameplay:** Play against an AI opponent powered by the Minimax algorithm with Alpha-Beta Pruning.
-- **Interactive Interface:** The game features a user-friendly interface that allows players to make moves easily.
 - **Simple Controls:** Input your moves using the keyboard, and follow the on-screen instructions.
 - **Endgame Detection:** The game detects when a player wins, loses, or the game ends in a draw, providing a clear indication of the game's outcome.
 
